@@ -26,9 +26,13 @@ Bước 5: Vào database vừa tạo, nhấn import. Trong mục File to import 
 Bước 7: Cấu hình tại xampp/htdocs/DoAnCNTT/config.php và xampp/htdocs/DoAnCNTT/admin/config.php
 
 DB_NAME: 'webmin'
+
 DB_USER: 'root'
+
 DB_PASSWORD: ''
+
 DB_HOST: 'localhost'
+
 PORT: 4306
 
 Bước 9: Mở browser lên nhập localhost/DoAnCNTT để chạy đồ án.
