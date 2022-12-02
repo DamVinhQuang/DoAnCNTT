@@ -30,8 +30,13 @@ DB_USER: 'root'
 DB_PASSWORD: ''
 DB_HOST: 'localhost'
 PORT: 4306
+
 Bước 9: Mở browser lên nhập localhost/DoAnCNTT để chạy đồ án.
+
 Tài khoản để đăng nhập:
+
 username: admin, pass: 123 là tài khoản admin để vào trang admin quản trị
+
 username: user123, pass: 123 là tài khoản khách hàng.
-Cảm ơn Thầy Cô và các bạn đã xem
+
+# Cảm ơn Thầy Cô và các bạn đã xem
