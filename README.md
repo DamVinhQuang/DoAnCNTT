@@ -1,12 +1,16 @@
 # DoAnCNTT
 Nhóm: Đàm Vinh Quang
+
 Đề tài: Xây dựng ứng dụng bán thức ăn trực tuyến
 # Công nghệ sử dụng:
 Front-end: HTML, Css, BootStrap
+
 Back-end: PhP
 # Phần mềm sử dụng:
 visual studio code
+
 phần mềm xampp 
+
 git Bash
 # Hướng dẫn sử dụng:
 Bước 1: Đầu tiên ta vào thư mục xampp/htdocs sau đó Open Git Bash Here:
