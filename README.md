@@ -1,5 +1,5 @@
 # DoAnCNTT
-Nhóm: Đàm Vinh Quang
+Nhóm: Đàm Vinh Quang - 20110548
 
 Đề tài: Xây dựng ứng dụng bán thức ăn trực tuyến
 # Công nghệ sử dụng:
