@@ -23,7 +23,7 @@ Bước 4: Truy cập database tại phpMyAdmin, tạo 1 database tên là webmi
 
 Bước 5: Vào database vừa tạo, nhấn import. Trong mục File to import chọn Choose File, sau đó chọn đến thư mục theo đường dẫn xampp/htdocs/DoAnCNTT, sau đó chọn file webmin.sql và nhấn import.
 
-Bước 7: Cấu hình tại xampp/htdocs/DoAnCNTT/config.php và xampp/htdocs/DoAnCNTT/admin/config.php
+Bước 6: Cấu hình tại xampp/htdocs/DoAnCNTT/config.php và xampp/htdocs/DoAnCNTT/admin/config.php
 
 DB_NAME: 'webmin'
 
@@ -35,7 +35,7 @@ DB_HOST: 'localhost'
 
 PORT: 4306
 
-Bước 9: Mở browser lên nhập localhost/DoAnCNTT để chạy đồ án.
+Bước 7: Mở browser lên nhập localhost/DoAnCNTT để chạy đồ án.
 
 Tài khoản để đăng nhập:
 
